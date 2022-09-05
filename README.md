@@ -106,11 +106,6 @@ The app is developed using streamlit library in python.
 
 
 
-**Browse link:**
-
-* **App link** - [(https://pavanwanjari-ml-stock-price-app-g36tbn.streamlitapp.com/)](https://pavanwanjari-ml-stock-price-app-g36tbn.streamlitapp.com/)
-
-* **Link to github code using streamlit**:
 
 
 
